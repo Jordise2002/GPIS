@@ -11,4 +11,5 @@ Dirección de la Web:
 http://www.gpisgrupo5.com.mialias.net/wp-admin
 
 usuario: gpisgr409
+
 contraseña: UhbJDuSg
